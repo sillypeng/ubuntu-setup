@@ -7,11 +7,7 @@ fi
 # basic
 sudo apt update
 sudo apt install -y build-essential libssl-dev git gitk terminator mc numlockx
-​
-# java
-sudo add-apt-repository ppa:webupd8team/java
-sudo apt update
-sudo apt install -y oracle-java8-installer
+
 
 # chrome
 sudo apt install -y libxss1 libappindicator1 libindicator7
