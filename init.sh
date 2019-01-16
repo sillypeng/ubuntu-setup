@@ -6,7 +6,7 @@ fi
 
 # basic
 sudo apt update
-sudo apt install -y build-essential libssl-dev git gitk mc numlockx rofi i3blocks
+sudo apt install -y build-essential libssl-dev git gitk mc numlockx rofi i3blocks redshift-gtk
 
 
 # chrome
